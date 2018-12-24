@@ -1,2 +1,2 @@
 # Washing-Machine-AVR
-Washing machine simulation in AVR assembly (ATmega16 STK500)
+Washing machine simulation in AVR Assembly (ATmega16 / STK500)
