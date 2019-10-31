@@ -1,5 +1,5 @@
 ;Final.asm
-;Adaloglou Lazaros - Anonymus Co-worker
+;Adaloglou Lazaros - Anonymous Co-worker
 ;Electrical Engineering AuTH
 ;21 / 12 / 2018
 ;Thessaloniki , Greece
